@@ -10,4 +10,6 @@ What do you really like? What can you find for fun facts related to any of these
 ## 1. React storefront pulling in and showing data from another port such as week 10 API store manager.  Fetch() function
 Fun fact: The meaning of a response code from the server varies from API to API, and oftentimes checking response.ok might not be enough. For example, some APIs will return a 200 response even if your API key is invalid. Always read the API documentation!
 https://www.sitepoint.com/introduction-to-the-fetch-api/
-## 2. 
+## 2. I like how easy it is to setup tables in react using bootstrap
+https://react-bootstrap.github.io/components/carousel/
+I like the carousel where the component cycle through the slides
