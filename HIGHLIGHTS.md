@@ -22,3 +22,5 @@ What do you really like? What can you find for fun facts related to any of these
 6. The mac key shortcut for clearing the terminal is `ctrl + l`
 
 7. I'm currently working on a few personal projects like a powerlifter calorie builder and reactive workout journal, a roommate bill collater hub, and a pomodoro light changing app. 
+
+8. Also, @JR, IT'S NATIONAL DOG DAY.
