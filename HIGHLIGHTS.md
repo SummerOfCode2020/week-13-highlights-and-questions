@@ -14,3 +14,8 @@ What do you really like? What can you find for fun facts related to any of these
 - group work on problems in class
 - 10-10-10 challenges
 - Slack ask-for-help channel
+- edabit.com
+- phone apps to study while waiting in line etc:
+* Grasshopper
+* JavaScript Quiz
+* W3schools
