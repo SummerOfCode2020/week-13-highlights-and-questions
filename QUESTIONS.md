@@ -13,3 +13,7 @@ What questions can you come up with?
 4. Can we still keep in touch after the cohort ends regarding coding questions/problems?
 
 5. What are some good ways to reinforce previous learned material and to tackle newer technologies? Practice techniques that go beyond code challenge websites? 
+
+6. What are some situations where we might need to transpile our code?
+
+7. How far reaching is JS, should we also start learning another heavyweight like C++, etc...?
