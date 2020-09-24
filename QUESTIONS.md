@@ -9,6 +9,9 @@ What is the significance of "id=root" ?
 
 What is a Palindrome ?
 
+-  Can you walk us through the app deployment via heroku?
+-  Can we build on the week-12-homework together and add the UI for sending product info?
+
 ## Cohort Questions
 
 1 Need more help on exercies on writing code to connect to the front end.
