@@ -8,6 +8,10 @@ What do you really like? What can you find for fun facts related to any of these
 
 ## Cohort Highlights
 
+Weekly challenges have been very helpful as practice.
+
+Slack is a ton of knowledge and helps connect at anytime outside of class hours.
+
 I'm very proud of my portfolio template (Although I haven't added the actual data yet)
 
 https://hollisjamison.github.io
@@ -21,14 +25,14 @@ Also outside of class I put together an Express + EJS movie site which allows yo
 https://github.com/hollisjamison/movie-passport
 
 
- - We can transfer our React knowledge to make IoS apps via React Native.
+- We can transfer our React knowledge to make IoS apps via React Native.
 
- - I had a side project where I made a hex color randomizer that showed the color in the background 
+- I had a side project where I made a hex color randomizer that showed the color in the background 
    and provided its hex code on screen.
 
- - An anonymous vegan baconator has achieved a fully hosted full stack web app!
+- An anonymous vegan baconator has achieved a fully hosted full stack web app!
 
- - There are other types of stacks to learn, such as JAMstack which sounds delicious.
+- There are other types of stacks to learn, such as JAMstack which sounds delicious.
 
 1. After completing the React tutorial and successfully re-creating the tic-tac-toe game, I find React very interesting and am excited to learn more and implement it in the future!
 
