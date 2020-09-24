@@ -1,5 +1,7 @@
 # Week 13 Teams and Rosters
 
+## The (Vegan) Baconators!
+
 - Marcus
 - Wesley Jaboin 
 - Alpha
@@ -10,9 +12,6 @@
 - Kayla
 - Colleen
 - Deva
-
-## The (Vegan) Baconators!
-
 
 ## Code M(elanin)
 

@@ -5,11 +5,12 @@ What allows for the front end to connect with the back end ?
 
 What is a wiggle sort and when would it matter?
 
-What is the significance of "id=root" ?
+What is the significance of "id=root"?
 
-What is a Palindrome ?
+What is a Palindrome?
 
 -  Can you walk us through the app deployment via heroku?
+
 -  Can we build on the week-12-homework together and add the UI for sending product info?
 
 ## Cohort Questions
@@ -50,7 +51,7 @@ What is a Palindrome ?
 
 - Heroku sounds like a My Hero Academia character, what is it used for in coding?
 
-- Who would win in an epic JC vs. JR showdown? And what would their ultimate techniques be?
+- Who would win an epic JC vs JR showdown? And what would their ultimate techniques be?
 
 ----
 
