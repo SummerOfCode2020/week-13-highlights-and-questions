@@ -1,4 +1,24 @@
-### Week 13 Teams and Rosters
+# Week 13 Teams and Rosters
+
+## The (Vegan) Baconators!
 
 
-## Our Group name is the `Git Bashers`
+## Git Bashers
+
+- Nick Lavery
+- Kayla
+- Colleen
+- Deva
+
+## Code M(elanin)
+
+- Alpha
+- Wesley Jaboin 
+- Marcus
+- Erick
+ 
+## Return to sleep
+
+- Hsiang Lin
+- Julie Kearns
+- Zieda Ward
