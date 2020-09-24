@@ -8,6 +8,28 @@ What do you really like? What can you find for fun facts related to any of these
 
 ## Cohort Highlights
 
+- Commit message development
+
+- Understanding the engineering of data
+
+- Understanding how data to relates front-end and back-end
+
+- group work on problems in class
+
+- 10-10-10 challenges
+
+- Slack ask-for-help channel
+
+- edabit.com
+
+- phone apps to study while waiting in line etc:
+
+* Grasshopper
+
+* JavaScript Quiz
+
+* W3schools
+
 - The most fun part for Erick is using npm packages!
 
 - API integrations such as Auth0 and google apps.
@@ -35,14 +57,11 @@ What do you really like? What can you find for fun facts related to any of these
 
 Also outside of class I put together an Express + EJS movie site which allows you to search for movies and displays movie posters and IMDB info
 
-
 <https://github.com/hollisjamison/movie-passport>
-
 
 - We can transfer our React knowledge to make IoS apps via React Native.
 
-- I had a side project where I made a hex color randomizer that showed the color in the background 
-   and provided its hex code on screen.
+- I had a side project where I made a hex color randomizer that showed the color in the background and provided its hex code on screen.
 
 - An anonymous vegan baconator has achieved a fully hosted full stack web app!
 

@@ -2,9 +2,6 @@
 
 ## The (Vegan) Baconators!
 
-- Marcus
-- Wesley Jaboin 
-- Alpha
 
 ## Git Bashers
 
@@ -16,7 +13,7 @@
 ## Code M(elanin)
 
 - Alpha
-- Wesley
+- Wesley Jaboin 
 - Marcus
 - Erick
  

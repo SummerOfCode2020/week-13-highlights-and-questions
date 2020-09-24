@@ -1,19 +1,33 @@
 # Questions about Code, Node, Express, React
 
 
-What allows for the front end to connect with the back end ?
+- What allows for the front end to connect with the back end ?
 
-What is a wiggle sort and when would it matter?
+- What is a wiggle sort and when would it matter?
 
-What is the significance of "id=root"?
+- What is the significance of "id=root"?
 
-What is a Palindrome?
+- What is a Palindrome?
 
--  Can you walk us through the app deployment via heroku?
+- Can you walk us through the app deployment via heroku?
 
--  Can we build on the week-12-homework together and add the UI for sending product info?
+- Can we build on the week-12-homework together and add the UI for sending product info?
 
 ## Cohort Questions
+
+- Can we have 10-10-10 challenges around using REACT (small CRUD exercise?)
+
+- What are some ways to better manage burnout and paralysis analysis?
+
+- Advice on how to maintain continuity of thought when working on a long-term project?
+
+- How to use npkill?
+
+- Can we have a 5 year reunion, in person?
+
+- When the Cohort ends, and we have the opportunity to explore topics more fully, who can we reach out to with technical questions?
+
+- How can we continue to reinforce what we have previously learned? (outside of 10-10-10)
 
 1 Need more help on exercies on writing code to connect to the front end.
 
