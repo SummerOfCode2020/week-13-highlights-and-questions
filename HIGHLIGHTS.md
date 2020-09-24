@@ -8,6 +8,15 @@ What do you really like? What can you find for fun facts related to any of these
 
 ## Cohort Highlights
 
+ - We can transfer our React knowledge to make IoS apps via React Native.
+
+ - I had a side project where I made a hex color randomizer that showed the color in the background 
+   and provided its hex code on screen.
+
+ - An anonymous vegan baconator has achieved a fully hosted full stack web app!
+
+ - There are other types of stacks to learn, such as JAMstack which sounds delicious.
+
 1. After completing the React tutorial and successfully re-creating the tic-tac-toe game, I find React very interesting and am excited to learn more and implement it in the future!
 
 ## 1. React storefront pulling in and showing data from another port such as week 10 API store manager.  Fetch() function
