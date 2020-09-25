@@ -57,7 +57,11 @@ What questions can you come up with?
 
 ## Cohort Questions
 
-Are we getting any grades in order to determine how we are doing 
+- Most web dev job posting required candidates to have a bachelor in CS. what about those of us who don not have a CS bachelor?
+
+- Are we getting any grades in order to determine how we are doing 
+
+----
 
 1. React- is the router component something we can wrap our code in and break out additional components? A component within a component - Routeception.
 
