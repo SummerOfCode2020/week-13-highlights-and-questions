@@ -3,6 +3,7 @@
 ## Overview
 
 What highlights can you come up with to share with the class?
+-See team entry. Late to add.
 
 - codecademy - provides a bit more code defintion, Jessica
 - w3schools.com - helps as a reference in overall Javascript, Alvin
